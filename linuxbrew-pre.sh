@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #
-# Copyright @2016 R&D
+# Copyright @2016 R&D CINS
 #
-# Author: master.cins.china
+# Author: Eric x. sun <followyourheart1211@gmail.com>
 #
 
 echo "This script is used to install pre-required for linuxbrew"
